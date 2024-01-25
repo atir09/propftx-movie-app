@@ -1,0 +1,25 @@
+Backend/.env
+Backend/node_modules
+
+
+# dependencies
+Frontend/react-movie-app/node_modules
+Frontend/react-movie-app/.pnp
+Frontend/react-movie-app/.pnp.js
+
+# testing
+Frontend/react-movie-app/coverage
+
+# production
+Frontend/react-movie-app/build
+
+# misc
+Frontend/react-movie-app/.DS_Store
+Frontend/react-movie-app/.env.local
+Frontend/react-movie-app/.env.development.local
+Frontend/react-movie-app/.env.test.local
+Frontend/react-movie-app/.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
