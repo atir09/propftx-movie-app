@@ -20,7 +20,7 @@ app.use(
     cors({
       origin: [
         "http://localhost:3000",
-        "https://propftx-movie-app.vercel.app/",
+        "https://propftx-movie-app.vercel.app",
       ],
       methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
       credentials: true,
